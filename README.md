@@ -4,6 +4,13 @@ This project is an **Android (Kotlin)** prototype made for the **Android Intern 
 It includes three sample recording tasks and a Task History screen that stores all completed tasks locally.
 
 ---
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ab9cace1-d180-401c-aa53-d1fdd9b50e89" /><img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b322190f-f6be-4560-93a5-32152a6ba2e4" /><img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/de9ad9fd-6716-4bb0-999e-e867e14cab3e" /><img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/71d584e1-3f00-4ce5-ae99-bd0cb7b9e6cb" /><img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/57a7b37f-5896-40ed-b259-f0e50bcf2931" /><img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/38f5a74a-489b-4fcb-b147-cdd152343a07" />
+
+
+
+
+
+
 
 ## ⭐ Objective  
 Build an Android app that allows users to perform:
